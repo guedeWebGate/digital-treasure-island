@@ -1,4 +1,4 @@
-Digita-treasure-island
+Digital-treasure-island
 ======================
 
 A world where miners survive
